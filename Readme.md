@@ -101,6 +101,7 @@ $ npm run dev
 * **[ReactJS](https://pt-br.reactjs.org/)**
 * **[NextJS](https://nextjs.org/)**
 * **[Sass](https://sass-lang.com/install)**
+* **[Stripe](https://stripe.com/docs/api)**
 
 > Veja o arquivo  [package.json](https://github.com/joaovitorJS/ignews/blob/main/package.json) para ver todas as dependências do projeto
 
