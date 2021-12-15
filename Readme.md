@@ -47,10 +47,7 @@ O **Ig.news** é uma aplicação que tem como objetivos trazer post de noticias 
 ### Web
 
 <p align="center">
-  <video width="900" height="300" controls>
-    <source src="./public/github/run-aplication.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  https://user-images.githubusercontent.com/55931239/146210416-e5f3938b-c150-4a9a-a20d-882b81c69039.mp4
 </p>
  <br>
 <p align="center">
