@@ -46,13 +46,16 @@ O **Ig.news** é uma aplicação que tem como objetivos trazer post de noticias 
 
 ### Web
 
-<!-- <p align="center">
-  <img src="./.github/demo-website.gif" alt="Demostração de uso" title="Exemplo do App Web" width="900px"/>
-</p> -->
+<p align="center">
+  <video width="900" height="300" controls>
+    <source src="./public/github/run-aplication.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
  <br>
 <p align="center">
-  <img src="./public/github/home.png" alt="Layout Inicial" width="500px" height="300px"/>
-  <img src="./public/github/post-not-login.png" alt="Descrição do episódio" width="500px" height="300px"/>
+  <img src="./public/github/home.png" alt="Layout Inicial" width="450px" height="300px"/>
+  <img src="./public/github/post-not-login.png" alt="Página de um post sem ter feito o login" width="450px" height="300px"/>
 </p>
 
 <br>
