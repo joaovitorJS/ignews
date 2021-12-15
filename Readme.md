@@ -46,9 +46,8 @@ O **Ig.news** é uma aplicação que tem como objetivos trazer post de noticias 
 
 ### Web
 
-<p align="center">
-  https://user-images.githubusercontent.com/55931239/146210416-e5f3938b-c150-4a9a-a20d-882b81c69039.mp4
-</p>
+* **[Exemplo de execução](https://user-images.githubusercontent.com/55931239/146210416-e5f3938b-c150-4a9a-a20d-882b81c69039.mp4)**
+
  <br>
 <p align="center">
   <img src="./public/github/home.png" alt="Layout Inicial" width="450px" height="300px"/>
@@ -78,6 +77,8 @@ $ cd ignews
 # Instale as dependências
 $ yarn
 
+# Modifique o arquivo .env.example, seguindo as instruções
+
 # Execute a aplicação em modo de desenvolvimento
 $ yarn dev
 
@@ -102,6 +103,10 @@ $ npm run dev
 * **[NextJS](https://nextjs.org/)**
 * **[Sass](https://sass-lang.com/install)**
 * **[Stripe](https://stripe.com/docs/api)**
+* **[FaunaDB](https://docs.fauna.com/fauna/current/)**
+* **[Prismic](https://prismic.io/docs)**
+* **[NextAuth](https://next-auth.js.org/)**
+
 
 > Veja o arquivo  [package.json](https://github.com/joaovitorJS/ignews/blob/main/package.json) para ver todas as dependências do projeto
 
