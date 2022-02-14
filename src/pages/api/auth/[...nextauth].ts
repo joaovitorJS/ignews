@@ -17,6 +17,7 @@ export default NextAuth({
       }
     }),
   ],
+  secret: "a0818d0016004a97df7fd66c12a6107c", 
   callbacks: {
     async session({ session }) {
       
